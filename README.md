@@ -1,2 +1,6 @@
 # Boolean-Model
-Boolean Model of IR
+The goal was to design and implement a Boolean Retrieval Model capable of efficiently handling different types of search queries, including simple, Boolean, and proximity queries, to facilitate precise document retrieval from a dataset of short stories.
+
+We developed a Boolean Retrieval Model in Java that utilizes both an inverted index and a positional index to process various query types, including AND, OR, NOT, and proximity-based searches. The model was designed to efficiently search and retrieve relevant documents based on query conditions. We implemented a graphical user interface (GUI) using Java Swing to enhance user interaction, allowing users to input search queries and view the results in a user-friendly format.
+
+The Boolean Retrieval Model effectively handled complex search queries with high accuracy, significantly improving the precision and speed of document retrieval. The use of inverted and positional indices allowed the system to support advanced search operations, such as Boolean and proximity queries, with enhanced performance. The integration of the GUI provided a smooth and intuitive user experience, enabling users to interact with the retrieval system seamlessly.
